@@ -5,7 +5,7 @@
 ###   🌱 Jr.Data Analyst 
 <a href="https://www.notion.so/Jr-Data-Analyst-9c8b9def050842638b9d08dc3ad8a958">
     <img 
-        src="https://img.shields.io/badge/-RESUME-9B7DFD?style=flat-square&link=https://rare-troodon-9a1.notion.site/Jr-Data-Analysis-a2953f0b08b44eeeb4b5d1f0c2dddc70"
+        src="https://img.shields.io/badge/-RESUME-9B7DFD?style=flat-square&link=https://royal-thumb-dde.notion.site/Jr-Data-Scientist-097d6b8076b34de4924018834ae13e10"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
