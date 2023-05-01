@@ -2,7 +2,7 @@
     
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=D1C4E9&height=100&section=header&text=BoaKim%20&fontSize=50&fontColor=FFA500)
 
-###   🌱 Jr.Data Scientist 
+###   AI, 데이터분석에 관심 많은 사람 😎
 <a href="https://royal-thumb-dde.notion.site/Jr-Data-Scientist-097d6b8076b34de4924018834ae13e10">
     <img 
         src="https://img.shields.io/badge/-RESUME-9B7DFD?style=flat-square&link=https://royal-thumb-dde.notion.site/Jr-Data-Scientist-097d6b8076b34de4924018834ae13e10"
